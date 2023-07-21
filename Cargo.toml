@@ -9,6 +9,7 @@ repository = "https://github.com/Hermitter/zint-sys"
 license = "MIT OR Apache-2.0"
 authors = ["Hermitter"]
 keywords = ["barcode", "barcode-generator", "ffi", "codegen"]
+categories = ["api-bindings"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
