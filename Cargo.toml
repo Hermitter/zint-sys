@@ -2,6 +2,13 @@
 name = "zint-sys"
 version = "0.1.0"
 edition = "2021"
+description = "Unsafe Rust bindings for the Zint barcode encoding library"
+readme = "README.md"
+homepage = "https://www.zint.org.uk/"
+repository = "https://github.com/Hermitter/zint-sys"
+license = "MIT OR Apache-2.0"
+authors = ["Hermitter"]
+keywords = ["barcode", "barcode-generator", "ffi", "codegen"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
