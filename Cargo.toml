@@ -1,6 +1,6 @@
 [package]
 name = "zint-sys"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Unsafe Rust bindings for the Zint barcode encoding library"
 readme = "README.md"
